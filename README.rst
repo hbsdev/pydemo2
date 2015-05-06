@@ -9,12 +9,6 @@ Py Demo 2
         :target: https://pypi.python.org/pypi/pydemo2
 
 
-Python Demo 2 using Travis
+Python Demo 2 using Travis - ignore this, just testing.
 
 * Free software: BSD license
-* Documentation: https://pydemo2.readthedocs.org.
-
-Features
---------
-
-* TODO
